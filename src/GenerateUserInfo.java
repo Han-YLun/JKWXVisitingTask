@@ -31,7 +31,6 @@ public class GenerateUserInfo {
 
     }
 
-
     /**
      * 根据大小生成[0,n)的数字
      *
